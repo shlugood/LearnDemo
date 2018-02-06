@@ -1,4 +1,4 @@
-package com.shlugood;
+package com.shlugood.thread;
 
 import java.util.concurrent.*;
 

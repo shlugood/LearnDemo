@@ -1,4 +1,4 @@
-package com.shlugood;
+package com.shlugood.thread;
 
 import java.util.List;
 import java.util.concurrent.ArrayBlockingQueue;
